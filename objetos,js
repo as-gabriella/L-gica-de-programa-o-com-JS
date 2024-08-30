@@ -1,0 +1,14 @@
+const gato = {
+    nome: "thomas",
+    idade: 3, 
+    tarefas: ['comer','dormir','brincar','pedir carinho'],
+MeFazerFeliz: function(){ 
+    console.log("paa me fazer feliz ele corre e se eita no chao")
+     }
+}
+ 
+
+
+
+
+}

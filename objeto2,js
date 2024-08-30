@@ -1,0 +1,14 @@
+//novo objeto 
+const carro = {
+marca: "audi ", 
+cor: "preto",
+modelo: "r8",
+tarefas:  ["locomoção","ultilidade","prática"],    
+MeLocomover: function(){
+console.log("tarefas")
+
+} 
+} 
+
+
+
